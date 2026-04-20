@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6b253c47a5edb886",
+        "id": "62c6589ca8238d01",
         "type": "tabs",
         "children": [
           {
-            "id": "b35beae25e63e5a6",
+            "id": "601deb124013ee12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nachipa Dev/Software.md",
+                "file": "API-REST/Backend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Software"
+              "title": "Backend"
             }
           }
         ]
       },
       {
-        "id": "ef52ec5c1a1ce0bf",
+        "id": "d23f96b45372bec6",
         "type": "tabs",
         "children": [
           {
-            "id": "1914895402fd778d",
+            "id": "e458f75a08557f4d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f83b0c8a96226915",
@@ -110,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nachipa Dev/Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Software"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nachipa Dev/Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Software"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,38 +171,67 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nachipa Dev/Software.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Software"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "225d53c2aba719a8",
+  "active": "e458f75a08557f4d",
   "lastOpenFiles": [
-    "Nachipa Dev",
-    "Nachipa Dev/frontend.md",
-    "Nachipa Dev/Software.md",
-    "Welcome.md"
+    "API-REST/Backend.md",
+    "API-REST/Controllers.md",
+    "API-REST/Routes.md",
+    "API-REST/Services.md",
+    "Modulo User.md",
+    "Untitled.md",
+    "API-REST",
+    "Modulo CrewMember.md",
+    "Modulo Auth.md",
+    "Modulo Course.md",
+    "Modulo Ubication.md",
+    "Modulo Professional title.md",
+    "Modulo Area.md",
+    "Modulo Associate CrewMemberCourse.md",
+    "Modulo Business.md",
+    "API-REST/Model.md",
+    "Access/Controllers.md",
+    "User/GetByID-GetAll-UpdateByID-DeleteSoft.md",
+    "API-REST/Middlewares.md",
+    "Business",
+    "Access/Register,Login,Logout,Reset Password.md",
+    "User",
+    "Nota.md",
+    "Nachipa Dev/Modulo Auth.md",
+    "Function Register.md",
+    "Register.md",
+    "Modulo Business.md",
+    "Nachipa Dev/Controllers.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Access"
   ]
 }
