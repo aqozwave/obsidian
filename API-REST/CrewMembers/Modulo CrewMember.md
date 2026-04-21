@@ -22,6 +22,4 @@ Tendra empresa - ubicacion - area
 Un [[Modulo CrewMember]] tendra una [[Modulo Area]] [[Modulo Business]] [[Modulo Ubication]]
 ## [[Functions CrewMembers]]
 
-
-
-[[API - REST]]
+[[API - REST  -Nachipa Wellboats🔥🚀]]
