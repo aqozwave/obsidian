@@ -4,31 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "62c6589ca8238d01",
+        "id": "623c9d97c3ff1974",
         "type": "tabs",
+        "dimension": 28.892944038929443,
         "children": [
           {
-            "id": "601deb124013ee12",
+            "id": "67cf7f593c74b771",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API-REST/Backend.md",
+                "file": "API-REST/CrewMembers/Modulo CrewMember.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backend"
+              "title": "Modulo CrewMember"
+            }
+          },
+          {
+            "id": "9dd1a12587b794f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API-REST/User/Modulo User.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulo User"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "d23f96b45372bec6",
+        "id": "5368fdd4e7327982",
         "type": "tabs",
+        "dimension": 71.10705596107056,
         "children": [
           {
-            "id": "e458f75a08557f4d",
+            "id": "b9f512f4ddc5a628",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -69,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:()",
+                "query": "tag:#createCertificatesOfCompentency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 232.5,
     "collapsed": true
   },
   "right": {
@@ -198,40 +215,46 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e458f75a08557f4d",
+  "active": "b9f512f4ddc5a628",
   "lastOpenFiles": [
-    "API-REST/Backend.md",
-    "API-REST/Controllers.md",
-    "API-REST/Routes.md",
-    "API-REST/Services.md",
-    "Modulo User.md",
-    "Untitled.md",
-    "API-REST",
-    "Modulo CrewMember.md",
-    "Modulo Auth.md",
-    "Modulo Course.md",
-    "Modulo Ubication.md",
-    "Modulo Professional title.md",
-    "Modulo Area.md",
-    "Modulo Associate CrewMemberCourse.md",
-    "Modulo Business.md",
-    "API-REST/Model.md",
-    "Access/Controllers.md",
-    "User/GetByID-GetAll-UpdateByID-DeleteSoft.md",
-    "API-REST/Middlewares.md",
-    "Business",
-    "Access/Register,Login,Logout,Reset Password.md",
-    "User",
-    "Nota.md",
-    "Nachipa Dev/Modulo Auth.md",
-    "Function Register.md",
-    "Register.md",
-    "Modulo Business.md",
-    "Nachipa Dev/Controllers.md",
+    "API-REST/User/Modulo User.md",
+    "API-REST/API - REST.md",
+    "API-REST/Area/Modulo Area.md",
+    "API-REST/Area/Functions Area.md",
+    "API-REST/Certificates_of_competency/Modulo Certificates_of_competency.md",
+    "API-REST/User/Functions User.md",
+    "API-REST/CrewMembers/Modulo CrewMember.md",
+    "API-REST/Auth/Modulo Auth.md",
+    "API-REST/Auth/Functions Auth.md",
+    "API-REST/Certificates_of_competency/Functions CertificatesOfCompentency.md",
+    "API-REST/Certificates_of_competency",
+    "API-REST/Auth/ROL.md",
+    "API-REST/Functions Modules/Associate_CrewMemberCourse/Modulo Associate_CrewMemberCourse.md",
+    "Modulo ProfessionalTitle.md",
+    "API-REST/Functions Modules/Associate_CrewMemberCourse",
+    "API-REST/AcademicDegrees/Modulo Academic_degrees.md",
+    "API-REST/AcademicDegrees/Functions AcademicDegrees.md",
+    "API-REST/Ranks/Associate_CrewMemberCourses",
+    "API-REST/AcademicDegrees",
+    "API-REST/Functions Modules",
+    "API-REST/Course",
+    "API-REST/Area",
+    "API-REST/Ubications",
+    "API-REST/CrewMembers",
+    "API-REST/Ranks",
+    "API-REST/Ubications/Modulo Ubication.md",
+    "API-REST/Ubications/Functions Ubication.md",
+    "API-REST/Business/Modulo Business.md",
+    "API-REST/Business/Functions Business.md",
+    "API-REST/CrewMembers/Functions CrewMembers.md",
+    "API-REST/User/RUN.md",
+    "Limbo/Music.md",
+    "API-REST/Ranks/Modulo Ranks.md",
+    "API-REST/Functions Modules/Controllers.md",
+    "API-REST/Functions Modules/Routes.md",
+    "API-REST/Functions Modules/Services.md",
     "Untitled.canvas",
-    "Untitled.base",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Access"
+    "Untitled 1.canvas"
   ]
 }

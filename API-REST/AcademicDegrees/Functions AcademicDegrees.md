@@ -1,0 +1,1 @@
+#createAcademicDegrees #UpdateAcademicDegrees #DeleteSoftAcademicDegrees #GetAllAcademicDegrees #GetByIdAcademicDegrees 

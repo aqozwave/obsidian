@@ -1,5 +1,0 @@
-[[Controllers]]
-[[Routes]]
-[[Services]]
-[[Model]]
-[[Middlewares]]
