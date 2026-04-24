@@ -86,4 +86,4 @@
 | 9   | [[Modulo CrewMember]]                 | ✅      | Ejemplo : Francisco Soto                                       |
 | 10  | [[Modulo Ranks]]                      | ✅      | Ejemplo : Piloto primero                                       |
 | 11  | [[Modulo Certificates_of_competency]] | ✅      | Ejemplo : Jefe de maquina                                      |
-   
+![[Pasted image 20260424124800.png]]

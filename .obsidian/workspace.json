@@ -11,6 +11,26 @@
             "id": "6017e60529c9f7bf",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API-REST/Auth/Modulo Auth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulo Auth"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ef05a1262f7c13d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89bcda4f45597583",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -74,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 201.5
   },
   "right": {
     "id": "f83b0c8a96226915",
@@ -177,14 +197,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6017e60529c9f7bf",
+  "active": "89bcda4f45597583",
   "lastOpenFiles": [
+    "API-REST/Auth/Modulo Auth.md",
     "API-REST/API - REST  -Nachipa Wellboats🔥🚀.md",
+    "Pasted image 20260424125018.png",
+    "Pasted image 20260424125003.png",
+    "Pasted image 20260424124947.png",
+    "Pasted image 20260424124903.png",
+    "Pasted image 20260424124857.png",
+    "Pasted image 20260424124800.png",
+    "Pasted image 20260424123926.png",
     "API-REST/Roadmap.md",
     "API-REST/🏴 Normativa marítima (notas).md",
     "API-REST/Propósito de la aplicación.md",
     "API-REST/User/Modulo User.md",
-    "API-REST/Auth/Modulo Auth.md",
     "API-REST/Auth/ROLES.md",
     "API-REST/CrewMembers/Modulo CrewMember.md",
     "API-REST/img/Imagenes Referencias.md",
@@ -215,7 +242,6 @@
     "API-REST/Ubications/Functions Ubication.md",
     "API-REST/Business/Functions Business.md",
     "API-REST/CrewMembers/Functions CrewMembers.md",
-    "API-REST/User/RUN.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
