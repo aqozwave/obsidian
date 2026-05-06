@@ -6,6 +6,7 @@
       {
         "id": "06b53314571aea9d",
         "type": "tabs",
+        "dimension": 44.623655913978496,
         "children": [
           {
             "id": "6017e60529c9f7bf",
@@ -26,15 +27,20 @@
       {
         "id": "3ef05a1262f7c13d",
         "type": "tabs",
+        "dimension": 55.376344086021504,
         "children": [
           {
             "id": "89bcda4f45597583",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "API-REST/Auth/Modulo Auth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modulo Auth"
             }
           }
         ]
@@ -94,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "f83b0c8a96226915",
@@ -199,8 +206,8 @@
   },
   "active": "89bcda4f45597583",
   "lastOpenFiles": [
-    "API-REST/Auth/Modulo Auth.md",
     "API-REST/API - REST  -Nachipa Wellboats🔥🚀.md",
+    "API-REST/Auth/Modulo Auth.md",
     "Pasted image 20260424125018.png",
     "Pasted image 20260424125003.png",
     "Pasted image 20260424124947.png",

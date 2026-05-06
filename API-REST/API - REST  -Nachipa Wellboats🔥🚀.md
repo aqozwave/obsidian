@@ -7,7 +7,7 @@
 
 ### **Qué es:**
 
-	Una plataforma backend para centralizar la información de cursos obligatorios de tripulantes.
+	Una plataforma backend y frontend para centralizar la información de cursos obligatorios de tripulantes.
 	
 	**Para qué sirve:**
 	
@@ -20,28 +20,6 @@
 	- Administradores de flota / empresas marítimas
 	    
 	- Personal encargado de cumplimiento normativo
-
-
----
-
-## 🎯 [[Propósito de la aplicación]]
-
-	**Qué es:**
-	
-	Una plataforma backend para centralizar la información de cursos obligatorios de tripulantes.
-	
-	**Para qué sirve:**
-	
-	Mantener la documentación al día, evitar vencimientos y facilitar la presentación ante la autoridad marítima.
-	
-	**Quién la usa:**
-	
-	- Tripulantes
-	    
-	- Administradores de flota / empresas marítimas
-	    
-	- Personal encargado de cumplimiento normativo
-    
 
 
 ---
